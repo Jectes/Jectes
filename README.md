@@ -7,7 +7,7 @@
 </a>
 
 ## About me
-I'm **CompTIA Security+ certified** and focused on building a career in **cybersecurity (Blue Team / SOC)**.  
+I'm **CompTIA Security+ certified** and focused on building a career in **cybersecurity (Red Team, Blue Team / SOC)**.  
 I like breaking things in a lab so they *don’t* break in production. 😄
 
 ## Objective
