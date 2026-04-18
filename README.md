@@ -24,7 +24,9 @@ Transition into a **Security Operations Center (SOC) Tier 1 Analyst** role, supp
 
 ## Certifications
 <div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
 
   <a href="https://academy.hackthebox.com/app/exams/3">
     <img src="https://img.shields.io/badge/CPTS-Coming%20Soon-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
@@ -34,3 +36,17 @@ Transition into a **Security Operations Center (SOC) Tier 1 Analyst** role, supp
     <img src="https://img.shields.io/badge/CCNA-Coming%20Soon-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   </a>
 </div>
+
+<!-- Optional: Add this section once you have projects you want to showcase.
+## Projects
+- [Project Name](https://github.com/yourusername/your-repo) — one-line description of what you built / learned
+- [Project Name](https://github.com/yourusername/your-repo) — one-line description
+-->
+
+<!-- Optional: Add tools you *actually use* (uncomment and edit).
+## Tools
+### Network
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+-->
