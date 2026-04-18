@@ -25,8 +25,16 @@ Transition into a **Security Operations Center (SOC) Tier 1 Analyst** role, supp
 ## Certifications
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CPTS%20(Hack%20The%20Box)-111927?&style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=111927&color=gray&label=Coming%20Soon" />
-  <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white&color=gray&label=Coming%20Soon" />
+  
+  <a href="https://academy.hackthebox.com/app/exams/3">
+    <img src="https://img.shields.io/badge/-CPTS-111927?&style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  </a>
+  <img src="https://img.shields.io/badge/-Coming%20Soon-gray?&style=for-the-badge" />
+
+  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html">
+    <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/-Coming%20Soon-gray?&style=for-the-badge" />
 </div>
 
 <!-- Optional: Add this section once you have projects you want to showcase.
