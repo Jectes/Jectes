@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Joseph Gonzalez (Jectes)
+# I am Joseph Gonzalez
 
 <a href="https://www.linkedin.com/in/joseph-gonzalez-551671186/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -8,8 +8,6 @@
 <a href="https://app.hackthebox.com/users/303104">
   <img src="https://img.shields.io/badge/-Hack%20The%20Box-111927?&style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
 </a>
-
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
