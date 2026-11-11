@@ -7,13 +7,12 @@
 
 ### Cybersecurity | Information Technology | Software Engineering
 
-**CompTIA Security+ Certified | U.S. Army Reserve Officer | Federal Professional**
+**CompTIA Security+ Certified | Computer Science Graduate Student**
 
-Graduate Computer Science Student | Polytechnic University of Puerto Rico
+Cybersecurity • Networking • Software Engineering
 
 <p>
 <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a"><img src="https://img.shields.io/badge/Security%2B-Verified-C0C0C0?style=for-the-badge&logo=comptia&logoColor=black" alt="Verify Security Plus certification"/></a>
-<img src="https://img.shields.io/badge/Army_Reserve-Officer-333333?style=for-the-badge" alt="Army Reserve Officer"/>
 <img src="https://img.shields.io/badge/Graduate_Studies-Computer_Science-777777?style=for-the-badge" alt="Computer Science graduate studies"/>
 </p>
 
@@ -30,11 +29,11 @@ Graduate Computer Science Student | Polytechnic University of Puerto Rico
 
 ## 👨‍💻 Professional Profile
 
-I am a CompTIA Security+ certified professional, U.S. Army Reserve officer, and graduate Computer Science student with experience in information systems, technical troubleshooting, cybersecurity, and operational leadership.
+I am a CompTIA Security+ certified professional and Computer Science graduate student focused on cybersecurity, networking, and software engineering.
 
-My technical background includes Windows workstation imaging, network connectivity, communications systems, software development, and independent cybersecurity laboratory research.
+My technical interests and hands-on experience include Windows workstation imaging, network connectivity, technical troubleshooting, software development, and independent cybersecurity lab research.
 
-I currently perform battalion S6 functions in the Army Reserve, supporting communications and information systems readiness. My professional goal is to continue developing my technical expertise in cybersecurity, networking, and software engineering.
+I document independent projects to demonstrate practical problem-solving, technical analysis, and defensive security concepts. My goal is to continue developing my expertise in information technology and cybersecurity.
 
 ---
 
@@ -112,11 +111,7 @@ Serves as a space for independent development, experimentation, and continued te
 
 ## 🎓 Education
 
-**Master of Science in Computer Science**
-
-Polytechnic University of Puerto Rico
-
-Graduate GPA: **3.6**
+**Graduate Studies in Computer Science**
 
 Areas of interest include software engineering, cybersecurity, networking, and information systems.
 
@@ -138,16 +133,13 @@ Areas of interest include software engineering, cybersecurity, networking, and i
 
 ---
 
-## 🎖️ Leadership & Professional Experience
+## 💼 Professional Experience
 
-**U.S. Army Reserve | Military Police Officer / Battalion S6 Functions**
+My background includes federal service and military leadership, with experience in operational coordination, technical support, documentation, and team development.
 
-Experience in military leadership, operational planning, personnel supervision, technical coordination, and communications readiness.
+I have worked with Windows deployment, communications systems, equipment readiness, and technical troubleshooting in structured professional environments.
 
-- Led and supervised a 39-Soldier military police platoon.
-- Supported law enforcement operations during overseas mobilization.
-- Perform battalion S6 duties involving information systems, communications, and technical readiness.
-- Completed supervised technical training involving Windows deployment, network cabling, and communications systems.
+*Operational assignments, organizational details, system configurations, and other nonpublic information are intentionally excluded from this public portfolio.*
 
 ---
 
