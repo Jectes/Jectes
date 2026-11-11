@@ -12,16 +12,20 @@
 Cybersecurity • Networking • Software Engineering
 
 <p>
-<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a"><img src="https://img.shields.io/badge/Security%2B-Verified-C0C0C0?style=for-the-badge&logo=comptia&logoColor=black" alt="Verify Security Plus certification"/></a>
-<img src="https://img.shields.io/badge/Graduate_Studies-Computer_Science-777777?style=for-the-badge" alt="Computer Science graduate studies"/>
+  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA2027?style=for-the-badge&logo=comptia&logoColor=white" alt="Verify CompTIA Security+ certification" />
+  </a>
+  <img src="https://img.shields.io/badge/Graduate_Studies-Computer_Science-475569?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Computer Science graduate studies" />
 </p>
 
-<a href="https://www.linkedin.com/in/joseph-gonzalez-551671186/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://app.hackthebox.com/users/303104">
-  <img src="https://img.shields.io/badge/Hack_The_Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/joseph-gonzalez-551671186/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://app.hackthebox.com/users/303104">
+    <img src="https://img.shields.io/badge/Hack_The_Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+  </a>
+</p>
 
 </div>
 
@@ -122,7 +126,7 @@ Areas of interest include software engineering, cybersecurity, networking, and i
 <div align="center">
 
 <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B_Certified-EA2027?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B_Certified-EA2027?style=for-the-badge&logo=comptia&logoColor=white" alt="Verified CompTIA Security+ credential" />
 </a>
 
 <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html">
