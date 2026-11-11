@@ -11,6 +11,10 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>ZeroDay Tech Labs · Cybersecurity case studies</b>
+  - [Case 1 · SET — Credential exposure at sign-in](https://github.com/Jectes/Ethical-Hacking-Labs/tree/main/credential-exposure-phishing-lab)
+  - [Case 2 · AndroRAT — Android APK sideloading](https://github.com/Jectes/Ethical-Hacking-Labs/tree/main/android-apk-sideloading-analysis)
+  - [Case 3 · Seeker — Browser-based location disclosure](https://github.com/Jectes/Ethical-Hacking-Labs/tree/main/browser-location-disclosure-lab)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
