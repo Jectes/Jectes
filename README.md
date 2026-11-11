@@ -1,6 +1,8 @@
 
 <div align="center">
 
+<img src="./assets/cybersecurity-emblem.svg" width="720" alt="Monochrome cybersecurity emblem with hooded figure and shield" />
+
 # Joseph Gonzalez
 
 ### Cybersecurity | Information Technology | Software Engineering
@@ -8,6 +10,12 @@
 **CompTIA Security+ Certified | U.S. Army Reserve Officer | Federal Professional**
 
 Graduate Computer Science Student | Polytechnic University of Puerto Rico
+
+<p>
+<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a"><img src="https://img.shields.io/badge/Security%2B-Verified-C0C0C0?style=for-the-badge&logo=comptia&logoColor=black" alt="Verify Security Plus certification"/></a>
+<img src="https://img.shields.io/badge/Army_Reserve-Officer-333333?style=for-the-badge" alt="Army Reserve Officer"/>
+<img src="https://img.shields.io/badge/Graduate_Studies-Computer_Science-777777?style=for-the-badge" alt="Computer Science graduate studies"/>
+</p>
 
 <a href="https://www.linkedin.com/in/joseph-gonzalez-551671186/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -153,4 +161,3 @@ Experience in military leadership, operational planning, personnel supervision, 
 
 </div>
 
--->
