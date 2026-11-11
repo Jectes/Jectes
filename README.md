@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/cybersecurity-emblem.svg" width="720" alt="Monochrome cybersecurity emblem with hooded figure and shield" />
+<img src="./assets/cybersecurity-logo-vector.svg" width="480" alt="Hooded figure behind a locked laptop, framed by a shield above the word Cybersecurity" />
 
 # Joseph Gonzalez
 
