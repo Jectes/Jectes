@@ -7,12 +7,7 @@
 **Cybersecurity · IT & Networking · Software Engineering**
 
 <p>
-  <a href="https://www.linkedin.com/in/joseph-gonzalez-551671186/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://app.hackthebox.com/users/303104">
-    <img src="https://img.shields.io/badge/Hack_The_Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
-  </a>
+  <a href="https://www.linkedin.com/in/joseph-gonzalez-551671186/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://app.hackthebox.com/users/303104"><img src="https://img.shields.io/badge/Hack_The_Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" /></a>
 </p>
 
 </div>
@@ -107,13 +102,7 @@ My graduate studies focus on the design and security of software and information
 
 <div align="center">
 
-<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B_Certified-EA2027?style=for-the-badge&logo=comptia&logoColor=white" alt="Verified CompTIA Security+ credential" />
-</a>
-
-<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html">
-  <img src="https://img.shields.io/badge/Cisco_CCNA-In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</a>
+<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a"><img src="https://img.shields.io/badge/CompTIA-Security%2B_Certified-EA2027?style=for-the-badge&logo=comptia&logoColor=white" alt="Verified CompTIA Security+ credential" /></a> <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html"><img src="https://img.shields.io/badge/Cisco_CCNA-In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA in progress" /></a>
 
 </div>
 
