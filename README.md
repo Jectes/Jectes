@@ -11,7 +11,7 @@
 
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -28,6 +28,22 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+## Certifications
+<div>
+  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+
+  <a href="https://academy.hackthebox.com/app/exams/3">
+    <img src="https://img.shields.io/badge/CPTS-Coming%20Soon-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  </a>
+
+  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html">
+    <img src="https://img.shields.io/badge/CCNA-Coming%20Soon-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+</div>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
