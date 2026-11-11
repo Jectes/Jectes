@@ -52,9 +52,9 @@ A growing collection of hands-on cybersecurity laboratories covering social engi
 Projects document the lab environment, methodology, evidence, observed results, and security recommendations.
 
 **Current Labs:**
-- SEToolkit — Credential Exposure
-- AndroRAT — Android APK Sideloading
-- Seeker — Browser Location Disclosure
+- SEToolkit - Credential Exposure
+- AndroRAT - Android APK Sideloading
+- Seeker - Browser Location Disclosure
 
 <a href="https://github.com/Jectes/Ethical-Hacking-Labs">
   <img src="https://img.shields.io/badge/EXPLORE_LABS-2563EB?style=for-the-badge&logo=github&logoColor=white" />
