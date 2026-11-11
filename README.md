@@ -1,22 +1,10 @@
-
 <div align="center">
 
 <img src="./assets/cybersecurity-logo-vector.svg" width="480" alt="Hooded figure behind a locked laptop, framed by a shield above the word Cybersecurity" />
 
 # Joseph Gonzalez
 
-### Cybersecurity | Information Technology | Software Engineering
-
-**CompTIA Security+ Certified | Computer Science Graduate Student**
-
-Cybersecurity • Networking • Software Engineering
-
-<p>
-  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/e8e2ee4dcd0043e9b30da5393df4b72a">
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA2027?style=for-the-badge&logo=comptia&logoColor=white" alt="Verify CompTIA Security+ certification" />
-  </a>
-  <img src="https://img.shields.io/badge/Graduate_Studies-Computer_Science-475569?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Computer Science graduate studies" />
-</p>
+**Cybersecurity · IT & Networking · Software Engineering**
 
 <p>
   <a href="https://www.linkedin.com/in/joseph-gonzalez-551671186/">
@@ -29,15 +17,7 @@ Cybersecurity • Networking • Software Engineering
 
 </div>
 
----
-
-## 👨‍💻 Professional Profile
-
-I am a CompTIA Security+ certified professional and Computer Science graduate student focused on cybersecurity, networking, and software engineering.
-
-My technical interests and hands-on experience include Windows workstation imaging, network connectivity, technical troubleshooting, software development, and independent cybersecurity lab research.
-
-I document independent projects to demonstrate practical problem-solving, technical analysis, and defensive security concepts. My goal is to continue developing my expertise in information technology and cybersecurity.
+I troubleshoot Windows systems and networks and build web applications. In my security labs, I compare what the user sees with what the system records. In the credential exposure lab, for example, the browser showed a sign-in error while the server log recorded the test credentials.
 
 ---
 
@@ -115,9 +95,11 @@ Serves as a space for independent development, experimentation, and continued te
 
 ## 🎓 Education
 
-**Graduate Studies in Computer Science**
+<p>
+  <img src="https://img.shields.io/badge/Graduate_Studies-Computer_Science-475569?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Computer Science graduate studies" />
+</p>
 
-Areas of interest include software engineering, cybersecurity, networking, and information systems.
+My graduate studies focus on the design and security of software and information systems.
 
 ---
 
@@ -148,10 +130,6 @@ I have worked with Windows deployment, communications systems, equipment readine
 ---
 
 <div align="center">
-
-### Building Technical Experience Through Practical Projects
-
-*Cybersecurity • Software Engineering • Networking • Continuous Learning*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jectes&color=2563eb&style=flat-square)
 
